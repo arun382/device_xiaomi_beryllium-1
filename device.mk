@@ -85,3 +85,7 @@ PRODUCT_COPY_FILES += \
 # PocketMode
 PRODUCT_PACKAGES += \
     XiaomiPocketMode
+
+# Google Camera
+PRODUCT_PACKAGES += \
+    GCam
