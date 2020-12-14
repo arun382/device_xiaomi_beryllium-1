@@ -4,11 +4,5 @@
     "repository": "mamutal91/device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
     "branch": "eleven"
-  },
-  {
-    "remote": "gitlab",
-    "repository": "mamutal91/packages_apps_GCam",
-    "target_path": "packages/apps/GCam",
-    "branch": "master"
   }
 ]
