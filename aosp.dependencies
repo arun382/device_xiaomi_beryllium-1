@@ -1,20 +1,26 @@
 [
   {
-    "remote": "github",
-    "repository": "mamutal91/device_xiaomi_sdm845-common",
+    "remote": "aospk-devices",
+    "repository": "device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
     "branch": "eleven"
   },
   {
-    "remote": "github",
-    "repository": "mamutal91/kernel_xiaomi_sdm845",
+    "remote": "aospk-devices",
+    "repository": "kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "eleven"
   },
   {
-    "remote": "github",
-    "repository": "mamutal91/vendor_xiaomi",
-    "target_path": "vendor/xiaomi",
+    "remote": "gitlab",
+    "repository": "AOSPK-Devices/vendor_xiaomi_beryllium",
+    "target_path": "vendor/xiaomi/beryllium",
+    "branch": "eleven"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "AOSPK-Devices/vendor_xiaomi_sdm845-common",
+    "target_path": "vendor/xiaomi/sdm845-common",
     "branch": "eleven"
   }
 ]
