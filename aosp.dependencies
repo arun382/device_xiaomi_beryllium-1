@@ -1,25 +1,25 @@
 [
   {
-    "remote": "aospk-devices",
+    "remote": "hub-devices",
     "repository": "device_xiaomi_sdm845-common",
     "target_path": "device/xiaomi/sdm845-common",
     "branch": "eleven"
   },
   {
-    "remote": "aospk-devices",
+    "remote": "hub-devices",
     "repository": "kernel_xiaomi_sdm845",
     "target_path": "kernel/xiaomi/sdm845",
     "branch": "eleven"
   },
   {
-    "remote": "gitlab",
-    "repository": "AOSPK-Devices/vendor_xiaomi_beryllium",
+    "remote": "lab-devices",
+    "repository": "vendor_xiaomi_beryllium",
     "target_path": "vendor/xiaomi/beryllium",
     "branch": "eleven"
   },
   {
-    "remote": "gitlab",
-    "repository": "AOSPK-Devices/vendor_xiaomi_sdm845-common",
+    "remote": "lab-devices",
+    "repository": "vendor_xiaomi_sdm845-common",
     "target_path": "vendor/xiaomi/sdm845-common",
     "branch": "eleven"
   },
